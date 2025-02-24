@@ -46,7 +46,7 @@
             <h6 class="collapse-header">Manage Attendance</h6>
             <a class="collapse-item" href="emploi.php">Emploi de temps</a>
             <a class="collapse-item" href="emploiExam.php">Emploi des exames</a>
-            <a class="collapse-item" href="telechargerConvocation.php">telecharger convocation</a>
+            <a class="collapse-item" href="gard.php">voir les notes</a>
             <!-- <a class="collapse-item" href="addMemberToContLevel.php ">Add Member to Level</a> -->
           </div>
         </div>
