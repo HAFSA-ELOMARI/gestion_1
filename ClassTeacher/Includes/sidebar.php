@@ -106,6 +106,31 @@
           <span>Charts</span>
         </a>
       </li> -->
+
+      <hr class="sidebar-divider">
+      <div class="sidebar-heading">
+      Attendance
+      </div>
+      </li>
+       <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseBootstraphcon"
+          aria-expanded="true" aria-controls="collapseBootstrapcon">
+          <i class="fa fa-calendar-alt"></i>
+          <span>gree note</span>
+        </a>
+        <div id="collapseBootstraphcon" class="collapse" aria-labelledby="headingBootstrap" data-parent="#accordionSidebar">
+          <div class="bg-white py-2 collapse-inner rounded">
+            <h6 class="collapse-header">gree note</h6>
+            <a class="collapse-item" href="gerNote.php">cree note</a>
+            <a class="collapse-item" href="calculenote.php">voir note</a>
+
+            <!-- <a class="collapse-item" href="viewAttendance.php">View Class Attendance</a>
+            <a class="collapse-item" href="viewStudentAttendance.php">View Student Attendance</a>
+            <a class="collapse-item" href="emploiTempsTech.php">Today's Report (xls)</a> -->
+            <!-- <a class="collapse-item" href="addMemberToContLevel.php ">Add Member to Level</a> -->
+          </div>
+        </div>
+      </li>
       <hr class="sidebar-divider">
      
     </ul>
