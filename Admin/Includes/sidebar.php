@@ -190,6 +190,32 @@
              </div>
          </div>
      </li>
+     
      <hr class="sidebar-divider">
+     <div class="sidebar-heading">
+        GESTION DEMPLOI
+     </div>
+      <li class="nav-item">
+         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseBootstrapassestsrt" aria-expanded="true" aria-controls="collapseBootstrapassests">
+             <i class="fas fa-chalkboard-teacher"></i>
+             <span>voir emploi de temps</span>
+         </a>
+         <div id="collapseBootstrapassestsrt" class="collapse" aria-labelledby="headingBootstrap" data-parent="#accordionSidebar">
+             <div class="bg-white py-2 collapse-inner rounded">
+                 <h6 class="collapse-header">voir emploi</h6>
+                 <a class="collapse-item" href="toutemploi.php"> Emploi Temp etudiant</a>
+                 <a class="collapse-item" href="toutemploiTech.php"> Emploi Temp prof</a>
+
+                 <br>
+                 
+                 <!-- <a class="collapse-item" href="assetsCategoryList.php">Assets Category List</a>
+             <a class="collapse-item" href="createAssets.php">Create Assets</a>
+
+             <h6 class="collapse-header">view emploi</h6>
+                 <a class="collapse-item" href=".php">view emploi</a> -->
+                 
+             </div>
+         </div>
+     </li>
 
  </ul>
